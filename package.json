@@ -39,6 +39,7 @@
     "request": "^2.57.0",
     "swagger-converter": "apigee-127/swagger-converter",
     "swagger-tools": "^0.9.0",
+    "xml2js": "^0.4.9",
     "yamljs": "^0.2.3"
   },
   "devDependencies": {
