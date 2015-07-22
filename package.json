@@ -37,6 +37,7 @@
     "lodash": "^3.9.3",
     "protagonist": "^0.20.1",
     "raml-parser": "^0.8.11",
+    "raml-discovery-to-swagger": "APIs-guru/raml-to-swagger",
     "request": "^2.57.0",
     "swagger-converter": "apigee-127/swagger-converter",
     "swagger-tools": "^0.9.0",
